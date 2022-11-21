@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bonusreactapp/static/css/main.fce36487.chunk.css",
+    "main.js": "/bonusreactapp/static/js/main.8630f7e2.chunk.js",
+    "main.js.map": "/bonusreactapp/static/js/main.8630f7e2.chunk.js.map",
+    "runtime~main.js": "/bonusreactapp/static/js/runtime~main.37130583.js",
+    "runtime~main.js.map": "/bonusreactapp/static/js/runtime~main.37130583.js.map",
+    "static/css/2.ae9e8b99.chunk.css": "/bonusreactapp/static/css/2.ae9e8b99.chunk.css",
+    "static/js/2.3515188a.chunk.js": "/bonusreactapp/static/js/2.3515188a.chunk.js",
+    "static/js/2.3515188a.chunk.js.map": "/bonusreactapp/static/js/2.3515188a.chunk.js.map",
+    "index.html": "/bonusreactapp/index.html",
+    "precache-manifest.31ac8b9084f150acf18611a23c87b703.js": "/bonusreactapp/precache-manifest.31ac8b9084f150acf18611a23c87b703.js",
+    "service-worker.js": "/bonusreactapp/service-worker.js",
+    "static/css/2.ae9e8b99.chunk.css.map": "/bonusreactapp/static/css/2.ae9e8b99.chunk.css.map",
+    "static/css/main.fce36487.chunk.css.map": "/bonusreactapp/static/css/main.fce36487.chunk.css.map"
+  }
+}
